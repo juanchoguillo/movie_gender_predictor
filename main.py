@@ -69,5 +69,5 @@ def predict_movie_gender(plot):
 
 
 if __name__ == '__main__':
-    # app.run(debug=True, use_reloader=False, host='0.0.0.0', port=5000)
-    app.run(debug=True, host='54.145.223.240', port=5000)
+    app.run(debug=True, use_reloader=False, host='0.0.0.0', port=5000)
+    # app.run(debug=True, host='54.145.223.240', port=5000)
