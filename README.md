@@ -1,1 +1,1 @@
-# movie_gender_predictor
+# movie_genre_predictor
